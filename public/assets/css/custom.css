@@ -1,0 +1,19 @@
+.theme-pearlarc {
+    background-color: #f2f2f2 !important;
+        --bs-app-theme: #CA3466;
+        --bs-app-theme-rgb: 251,85,151;
+        --bs-app-theme-color: #FFFFFF;
+        --bs-app-theme-color-rgb: 255,255,255;
+        --bs-app-theme-hover: #CA3466;
+        --bs-app-theme-hover-border-color: #CA3466;
+        --bs-app-theme-hover-color: #FFFFFF;
+        --bs-app-theme-active: #CA3466;
+        --bs-app-theme-active-border-color: #CA3466;
+        --bs-app-theme-active-color: #CA3466;
+        --bs-app-theme-disabled: #CA3466;
+        --bs-app-theme-disabled-border-color: #CA3466;
+        --bs-app-theme-disabled-color: #FFFFFF;
+        --bs-link-color-rgb: 251,85,151;
+        --bs-link-hover-color-rgb: #CA3466;
+}
+
