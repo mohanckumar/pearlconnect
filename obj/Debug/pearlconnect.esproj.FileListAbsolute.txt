@@ -1,0 +1,2 @@
+D:\Workspace\P\PearlConnect\obj\Debug\pearlconnect.esproj.CoreCompileInputs.cache
+D:\Workspace\PearlConnect\pearlconnect\obj\Debug\pearlconnect.esproj.CoreCompileInputs.cache
