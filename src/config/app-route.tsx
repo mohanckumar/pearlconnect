@@ -1,11 +1,10 @@
-import React from 'react';
 
 import App from './../App.tsx';
 
-import Home from '../pages/rnr/home/home.tsx';
-import Rewards from '../pages/rnr/rewards/rewards.tsx';
-import RewardHistory from '../pages/rnr/rewardHistory/rewardHistory.tsx';
-import Checkout from '../pages/rnr/checkout/checkout.tsx';
+import Home from '../pages/rewards/home/Home.tsx';
+import Rewards from '../pages/rewards/rewards/Rewards.tsx';
+import RewardHistory from '../pages/rewards/rewardhistory/RewardHistory.tsx';
+import Checkout from '../pages/rewards/checkout/Checkout.tsx';
 
 const AppRoute = [
   {
