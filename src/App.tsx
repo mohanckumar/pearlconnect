@@ -4,10 +4,10 @@ import { slideToggle } from './composables/slideToggle.ts';
 
 import Header from './components/header/header.tsx';
 import Sidebar from './components/sidebar/sidebar.tsx';
-import SidebarRight from './components/sidebar-right/sidebar-right.tsx';
+// import SidebarRight from './components/sidebar-right/sidebar-right.tsx';
 import TopMenu from './components/top-menu/top-menu.tsx';
-import Content from './components/content/content.tsx';
-import ThemePanel from './components/theme-panel/theme-panel.tsx';
+ import Content from './components/content/content.tsx';
+// import ThemePanel from './components/theme-panel/theme-panel.tsx';
 import Footer from './components/footer.js';
 
 
@@ -321,10 +321,10 @@ function App() {
 			>
 				{!appHeaderNone && <Header />}
 				{!appSidebarNone && <Sidebar />}
-				{appSidebarTwo && <SidebarRight />}
+				
 				{appTopMenu && <TopMenu />}
 				{!appContentNone && <Content />}
-				<ThemePanel />
+			
 			</div>
 			<Footer/>
 		</AppSettings.Provider>
